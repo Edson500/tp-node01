@@ -1,0 +1,27 @@
+{
+  "name": "tp-node01",
+  "version": "1.0.0",
+  "description": "Primeiro projeto de nodejs da aula de TP.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edson500/tp-node01.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "javascrypt"
+  ],
+  "author": "Edson J",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edson500/tp-node01/issues"
+  },
+  "homepage": "https://github.com/Edson500/tp-node01#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
