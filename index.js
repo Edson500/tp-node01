@@ -8,7 +8,7 @@ const app = express()
 /*-------------------------------------------------------------------------------------------*/
 /*ÁREA DE TESTE*/
  
-console.log('TESTE DE SAÍDA DA APLICAÇÃO NODEJS')
+console.log('TESTE DE SAÍDA DA APLICAÇÃO NODEJS 01')
 console.log('TESTE DE SAÍDA DA APLICAÇÃO NODEJS -2')
 
 /*-------------------------------------------------------------------------------------------*/
